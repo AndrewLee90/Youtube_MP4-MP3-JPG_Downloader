@@ -15,4 +15,23 @@ QT디자인 예시, 미완성.
 
 URL 미입력시 오류 박스 출력
 
-![Main Example](urlmissing.png)
+
+![URL Example](URLmissing.png)
+
+
+MP4파일 예제
+
+![Mp4 Example](mp4.png)
+
+
+JPG파일 예제
+
+
+![JPG Example](jpg_frames.png)
+
+
+
+정상작동 확인
+
+
+![Mp3 Example](workwell.png)
